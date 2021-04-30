@@ -1,0 +1,23 @@
+ .Select-value {
+  	background-color: #3d3d3d;
+}
+#region_dropdown .Select-value .Select-value-label{
+	color: #fff;
+}
+.Select-menu-outer {
+  	background-color: #3d3d3d;
+}
+
+.VirtualizedSelectOption {
+    background-color: grey;
+    color: white;
+}
+.VirtualizedSelectFocusedOption {
+    background-color: #aaaaaa;
+    color: white;
+}
+#choose_category .Select-value .Select-value-label{
+	color: #fff;
+}
+
+/* color: #11111f;  {*/
